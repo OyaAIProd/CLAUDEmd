@@ -1,5 +1,7 @@
 # 🍟 CLAUDEmd - Simplify Your AI Collaboration Workflow
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/annsharry-claudemd)
+
 ## 🚀 Getting Started
 
 Welcome to CLAUDEmd! This application helps you enhance your AI collaboration tasks. Whether you're brainstorming ideas, retrieving context, or performing code audits, CLAUDEmd makes these processes easier for you.
